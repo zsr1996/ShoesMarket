@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/oracle/shoesMaket/control/ShoesServlet.java=UTF-8
+encoding//src/com/oracle/shoesMaket/control/UserServlet.java=UTF-8
+encoding//src/com/oracle/shoesMaket/model/dao/ShoesDAOImp.java=UTF-8
+encoding//src/com/oracle/shoesMaket/model/dao/ShoesDao.java=GBK
+encoding/<project>=GBK
